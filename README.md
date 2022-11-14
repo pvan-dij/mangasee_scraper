@@ -1,6 +1,6 @@
 # mangasee_scraper
 
-Scrape a manga from manga see
+Scrape a manga from mangasee123
 
 Usage:
 ```
